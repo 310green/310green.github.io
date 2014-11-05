@@ -3,6 +3,6 @@
 <meta charset="htf-8">
 <script src="app.js">
 <body>
-<p>indexedDB test></p>
+indexedDB test
 </body>
 </html>

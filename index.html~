@@ -1,8 +1,8 @@
 <!DOCTYPE HTML>
 <html>
 <meta charset="htf-8">
-<script src="app.js">
+<script src="app.js"></script>
 <body>
-indexedDB test
+<p>indexedDB test</p>
 </body>
 </html>
